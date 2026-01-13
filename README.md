@@ -100,7 +100,7 @@ The Power BI dashboard includes:
 Aspiring Data Analyst / Data Scientist  
 
 - **Skills:** Python | SQL | Power BI | Excel  
-- **GitHub:** https://github.com/Deji-Codes  
+- **GitHub:** https://github.com/DejiCodes-Lab  
 - **LinkedIn:** https://www.linkedin.com/in/abdul-haleem-ayodeji-044a82310  
 
 ---
