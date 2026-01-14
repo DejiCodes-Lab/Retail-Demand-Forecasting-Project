@@ -43,7 +43,7 @@ Contains customer demographics:
 ## 🛠️ Tools & Technologies Used
 - **Excel** – Data cleaning, validation, and pivot-table analysis  
 - **SQL** – Data querying, aggregation, and trend analysis  
-- **Python** – Exploratory Data Analysis (pandas, matplotlib)  
+- ~**Python** – Exploratory Data Analysis (pandas, matplotlib)~  
 - **Power BI** – Interactive dashboards and business storytelling  
 
 ---
@@ -91,7 +91,6 @@ The Power BI dashboard includes:
 - Introduce machine learning models for customer and product segmentation  
 - Add forecast-driven inventory recommendations  
 
-> These enhancements will transition the project from **data analysis** to **data science**.
 
 ---
 
@@ -104,10 +103,3 @@ Aspiring Data Analyst / Data Scientist
 - **LinkedIn:** https://www.linkedin.com/in/abdul-haleem-ayodeji-044a82310  
 
 ---
-
-## ⭐ Why This Project Matters
-This project demonstrates:
-- Strong analytical thinking  
-- Real-world business problem solving  
-- Ability to work across multiple tools  
-- A clear pathway into data science  
