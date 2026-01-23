@@ -97,15 +97,6 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 Next Steps (Planned Enhancements)
-- Implement **demand forecasting** for top-selling products  
-- Compare actual vs predicted demand  
-- Introduce machine learning models for customer and product segmentation  
-- Add forecast-driven inventory recommendations  
-
-
----
-
 ## 👤 Author
 **Ayodeji**  
 Aspiring Data Analyst / Data Scientist  
