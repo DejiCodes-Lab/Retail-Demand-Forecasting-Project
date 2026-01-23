@@ -42,8 +42,7 @@ Contains customer demographics:
 
 ## 🛠️ Tools & Technologies Used
 - **Excel** – Data cleaning, validation, and pivot-table analysis  
-- **SQL** – Data querying, aggregation, and trend analysis  
-- ~**Python** – Exploratory Data Analysis (pandas, matplotlib)~  
+- **Python** – Exploratory Data Analysis (pandas, matplotlib)  
 - **Power BI** – Interactive dashboards and business storytelling  
 
 ---
@@ -72,6 +71,19 @@ Contains customer demographics:
 - Certain categories show consistent demand over time, while others are more volatile  
 - The consumer segment generates the highest sales volume  
 - Regional differences suggest opportunities for targeted marketing and inventory optimization  
+
+---
+
+## 📈 Demand Trend Interpretation (Top Product)
+
+The monthly demand for the top-selling product shows **significant short-term fluctuations**, with noticeable spikes and drops across different months. This indicates that customer purchasing behavior is not constant and may be influenced by factors such as promotions, stock availability, or seasonal buying habits.
+
+To better understand the underlying pattern, a **3-month moving average** was applied. While the actual demand appears highly volatile, the smoothed trend reveals a **relatively stable underlying demand pattern**. A temporary slowdown is visible around the middle of the period, followed by a recovery toward the later months.
+
+Overall, there is **no strong long-term upward or downward trend**, suggesting that demand for this product remains generally stable over time.
+
+### Business Implication
+Although raw monthly demand is volatile, the smoothed trend indicates that this product is **suitable for trend-based inventory planning**. Management should avoid reacting to short-term spikes or drops and instead base replenishment decisions on the underlying demand trend to reduce the risk of overstocking or stockouts.
 
 ---
 
