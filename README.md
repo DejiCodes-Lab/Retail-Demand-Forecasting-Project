@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes retail sales data to uncover customer purchasing patterns, product performance, and sales trends across time, regions, and customer segments. The goal is to provide **data-driven insights** that can support better inventory planning, sales strategy, and business decision-making.
 
-The project is designed as an **end-to-end data analysis workflow**, using multiple tools commonly used in industry.
+The project is designed as an **end-to-end data analysis workflow**, combining Excel, SQL, Python, and Power BI in a realistic business setting.
 
 ---
 
@@ -19,29 +19,38 @@ The project is designed as an **end-to-end data analysis workflow**, using multi
 The dataset consists of **three relational tables**:
 
 ### 1. Orders Table
-Contains transactional sales data including:
-- Order date  
-- Product sold  
-- Quantity and sales value  
-- Region and store type  
+Transactional sales data including:
+- `order_date`
+- `product_id`
+- `customer_id`
+- `quantity`
+- `sales`
+- `region`
+- `store_type`
 
 ### 2. Products Table
-Contains product-level information:
-- Product name and category  
-- Cost price  
-- Reorder level  
+Product-level information:
+- `product_name`
+- `category`
+- `sub_category`
+- `cost_price`
+- `reorder_level`
 
 ### 3. Customers Table
-Contains customer demographics:
-- Customer segment  
-- City, state, and country  
+Customer information:
+- `customer_name`
+- `segment`
+- `city`
+- `state`
+- `country`
 
-> The data spans **two years (2023–2024)** and simulates realistic retail operations.
+> The dataset spans **two years (2023–2024)** and simulates realistic retail operations. It was generated using ChatGpt Artificial Intelligence. 
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **Excel** – Data cleaning, validation, and pivot-table analysis  
+- **Excel** – Data cleaning, validation, pivot-table analysis  
+- **SQL** – Data querying, joins, aggregation, trend analysis  
 - **Python** – Exploratory Data Analysis (pandas, matplotlib)  
 - **Power BI** – Interactive dashboards and business storytelling  
 
@@ -51,26 +60,18 @@ Contains customer demographics:
 
 ### 📊 Sales Performance Analysis
 - Identified **top 3 products by total sales**  
-- Analyzed category-wise and sub-category performance  
-- Compared sales trends across regions and store types  
+- Analyzed category and sub-category performance  
+- Compared sales across regions and store types  
 
 ### 📈 Time-Based Trend Analysis
 - Monthly and yearly sales trends  
-- Seasonal patterns in product demand  
-- Growth and decline patterns across categories  
+- Demand patterns for top-selling products  
+- Moving average smoothing for noise reduction  
 
 ### 👥 Customer & Regional Insights
 - Sales contribution by customer segment  
 - Regional sales distribution  
-- Store type performance (Online vs Physical)  
-
----
-
-## 📌 Key Insights
-- A small number of products contribute a large share of total revenue  
-- Certain categories show consistent demand over time, while others are more volatile  
-- The consumer segment generates the highest sales volume  
-- Regional differences suggest opportunities for targeted marketing and inventory optimization  
+- Online vs physical store performance  
 
 ---
 
@@ -87,13 +88,30 @@ Although raw monthly demand is volatile, the smoothed trend indicates that this 
 
 ---
 
-## 📊 Power BI Dashboard
-The Power BI dashboard includes:
-- Sales overview KPIs  
-- Monthly sales trends  
-- Top products and categories  
-- Regional and customer segment analysis  
-- Business insights and recommendations  
+~## 📊 Power BI DashboardThe Power BI report includes:- Sales overview KPIs (Total Sales, Quantity, Orders)  - Monthly sales trends  - Top products and categories  - Regional and customer segment analysis  - Business insights and recommendations~  
+
+---
+
+## 📸 Project Visuals
+
+### Monthly Demand Trend (Python)
+![Demand Trend](images/demand_trend.png)
+
+### Moving Average Analysis
+![Moving Average](images/moving_average.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+---
+
+## 🚀 Next Steps (Planned Enhancements)
+- Implement **demand forecasting** for top-selling products  
+- Compare actual vs predicted demand  
+- Apply machine learning for product and customer segmentation  
+- Add forecast-driven inventory recommendations  
+
+> These enhancements will transition the project from **data analysis** to **data science**.
 
 ---
 
@@ -102,7 +120,7 @@ The Power BI dashboard includes:
 Aspiring Data Analyst / Data Scientist  
 
 - **Skills:** Python | SQL | Power BI | Excel  
-- **GitHub:** https://github.com/DejiCodes-Lab  
+- **GitHub:** https://github.com/Deji-Codes  
 - **LinkedIn:** https://www.linkedin.com/in/abdul-haleem-ayodeji-044a82310  
 
 ---
