@@ -88,7 +88,7 @@ Although raw monthly demand is volatile, the smoothed trend indicates that this 
 
 ---
 
-~## 📊 Power BI DashboardThe Power BI report includes:- Sales overview KPIs (Total Sales, Quantity, Orders)  - Monthly sales trends  - Top products and categories  - Regional and customer segment analysis  - Business insights and recommendations~  
+## 📊 Power BI DashboardThe Power BI report includes:- Sales overview KPIs (Total Sales, Quantity, Orders)  - Monthly sales trends  - Top products and categories  - Regional and customer segment analysis  - Business insights and recommendations  
 
 ---
 
@@ -98,10 +98,10 @@ Although raw monthly demand is volatile, the smoothed trend indicates that this 
 ![Demand Trend](images/demand_trend.png)
 
 ### Moving Average Analysis
-![Moving Average](images/moving_average.png)
+![Moving Average](images/moving_average.jpg)
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](images/dashboard.png)
 
 ---
 
