@@ -1,0 +1,11 @@
+product_id,product_name,category,sub_category,cost_price,reorder_level
+1,Laptop,Technology,Computers,152,94
+2,Smartphone,Technology,Phones,485,94
+3,Office Chair,Furniture,Chairs,398,43
+4,Desk,Furniture,Tables,320,22
+5,Printer,Technology,Machines,156,41
+6,Router,Technology,Networking,121,72
+7,Monitor,Technology,Displays,238,21
+8,Keyboard,Technology,Accessories,70,49
+9,Mouse,Technology,Accessories,152,57
+10,Notebook,Office Supplies,Paper,171,21

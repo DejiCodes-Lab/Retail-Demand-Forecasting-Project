@@ -1,0 +1,21 @@
+customer_id,customer_name,segment,city,state,country
+1,Customer_1,Consumer,Lagos,Ondo,Nigeria
+2,Customer_2,Consumer,Ibadan,Oyo,Nigeria
+3,Customer_3,Corporate,Ibadan,Ondo,Nigeria
+4,Customer_4,Corporate,Lagos,Lagos,Nigeria
+5,Customer_5,Consumer,Lagos,Ondo,Nigeria
+6,Customer_6,Consumer,Ibadan,Oyo,Nigeria
+7,Customer_7,Consumer,Abuja,Oyo,Nigeria
+8,Customer_8,Home Office,Akure,FCT,Nigeria
+9,Customer_9,Home Office,Lagos,Lagos,Nigeria
+10,Customer_10,Home Office,Akure,Ondo,Nigeria
+11,Customer_11,Corporate,Abuja,FCT,Nigeria
+12,Customer_12,Home Office,Abuja,Ondo,Nigeria
+13,Customer_13,Corporate,Abuja,Ondo,Nigeria
+14,Customer_14,Corporate,Lagos,FCT,Nigeria
+15,Customer_15,Home Office,Abuja,FCT,Nigeria
+16,Customer_16,Corporate,Lagos,FCT,Nigeria
+17,Customer_17,Home Office,Abuja,FCT,Nigeria
+18,Customer_18,Home Office,Akure,FCT,Nigeria
+19,Customer_19,Consumer,Akure,Ondo,Nigeria
+20,Customer_20,Home Office,Ibadan,FCT,Nigeria
