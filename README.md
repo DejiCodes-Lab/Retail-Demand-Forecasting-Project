@@ -95,23 +95,13 @@ Although raw monthly demand is volatile, the smoothed trend indicates that this 
 ## 📸 Project Visuals
 
 ### Monthly Demand Trend (Python)
-![Demand Trend](images/demand-trend.png)
+![Demand Trend](images/demand-trend.PNG)
 
 ### Moving Average Analysis
 ![Moving Average](images/moving-average.jpg)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](images/dashboard.png)
-
----
-
-## 🚀 Next Steps (Planned Enhancements)
-- Implement **demand forecasting** for top-selling products  
-- Compare actual vs predicted demand  
-- Apply machine learning for product and customer segmentation  
-- Add forecast-driven inventory recommendations  
-
-> These enhancements will transition the project from **data analysis** to **data science**.
 
 ---
 
