@@ -95,10 +95,10 @@ Although raw monthly demand is volatile, the smoothed trend indicates that this 
 ## 📸 Project Visuals
 
 ### Monthly Demand Trend (Python)
-![Demand Trend](images/demand_trend.png)
+![Demand Trend](images/demand-trend.png)
 
 ### Moving Average Analysis
-![Moving Average](images/moving_average.jpg)
+![Moving Average](images/moving-average.jpg)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](images/dashboard.png)
